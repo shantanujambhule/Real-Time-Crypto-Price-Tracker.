@@ -1,6 +1,13 @@
 # 🪙 Crypto Asset Tracker
 
 A TypeScript-based cryptocurrency asset tracker built with Redux Toolkit. It provides real-time state management for various crypto assets like Bitcoin, Ethereum, and more.
+📸 Preview
+
+
+
+https://github.com/user-attachments/assets/842892c0-b702-4274-a698-355cad8b43fe
+
+
 
 ## 🚀 Features
 
